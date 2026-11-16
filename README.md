@@ -2,7 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Node 22](https://img.shields.io/badge/Node-22-green.svg)](https://nodejs.org)
-[![make.fun bounty](https://img.shields.io/badge/make.fun-best--game--01-blueviolet.svg)](https://make.fun/bounty/best-game-01)
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/kavivenn-blip/neon-void/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/kavivenn-blip/neon-void/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
 **Neon Void** is a twin-stick arena shooter for the [make.fun](https://make.fun) best-game-01 bounty: fly a lone ship through an endless neon swarm, chain shard pickups into a score multiplier, and spend nova bombs when the swarm closes in. One run, one score — how long can you keep the void at bay?
 
@@ -58,3 +60,7 @@ The source is split into files with one clear job each, under `game/src/`:
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=hp1z0q8b&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
